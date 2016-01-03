@@ -1,0 +1,14 @@
+layout_spectrum: 0.983871
+color:
+  saturation: 0.6415621
+  brandStrength: 1
+  lightness: 0.9426523
+  brandColors:
+    - '#0C0B0E'
+    - '#876E4C'
+    - '#E9DFD0'
+    - '#5B4327'
+    - '#C6BDB4'
+  rhythmicContrast: 0.9042829
+typography_spectrum: 1
+name: Chair Apparel
